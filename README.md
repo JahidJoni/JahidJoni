@@ -1,6 +1,6 @@
 ### Hi there, I am  Jahid Hasan Joni
 
-### [Portfolio](https://jh-joni.netlify.app/
+### [Portfolio](https://jh-joni.netlify.app/)
 
 ## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, MERN Stack Developer
 
