@@ -11,7 +11,7 @@
 - 📫 +8801646407263  || jh.joni07@gmail.com
 
 
-### [Get My Resume](https://jh-joni.netlify.app/)
+### [Get My Resume](https://drive.google.com/file/d/1xw469zQP3bnjK1H0KK-QD6_YMZ2d_58i/view?usp=sharing)
 <!---
 JahidJoni/JahidJoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
