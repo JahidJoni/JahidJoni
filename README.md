@@ -16,7 +16,7 @@
 JahidJoni/JahidJoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br/>
+<br/> <p>
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
-<br/>
+<br/> <br/>  <br/> 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidjoni&theme=dracula">
+</p>
