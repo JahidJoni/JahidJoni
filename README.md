@@ -1,4 +1,4 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am  Jahid Hasan Joni
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am  Jahid Hasan Joni & I ❤️ code!
 
 <p>
 <a href="https://jh-joni.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-7CB342?style=for-the-badge&labelColor=7CB342&logo=Portfolio&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
