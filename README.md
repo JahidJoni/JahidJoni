@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://jh-joni.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
 <a href="https://www.linkedin.com/in/jahid-joni/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-<a href="https://www.facebook.com/jhj.joni/" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
+<a href="https://www.facebook.com/jhj.joni/" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-A7C0FF?style=for-the-badge&logo=Facebook&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
 
 </p>
 
