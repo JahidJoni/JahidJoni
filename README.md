@@ -13,6 +13,7 @@
 - ⚡ Learning everything about technology! 
 - 🔭 Next year goals: Improve at React native, Next JS, Gatsby, Graph QL.
 - 💞️ Looking for a web developer role
+- 👨‍💻 All of my projects are available at [https://jh-joni.netlify.app/](https://jh-joni.netlify.app/)
 - 📫 +8801646407263  || jh.joni07@gmail.com
 
 
