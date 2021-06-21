@@ -3,6 +3,8 @@
 <a href="https://twitter.com/_jahidjoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jahidjoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jahid-joni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-joni" height="30" width="40" /></a>
 <a href="https://fb.com/jhj.joni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhj.joni" height="30" width="40" /></a>
+ <a href="/https://jh-joni.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jh-joni.netlify.app/" height="30" width="40" /></a>
+</p>
 </p>
 
 ## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, MERN Stack Developer
