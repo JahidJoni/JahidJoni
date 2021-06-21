@@ -1,13 +1,4 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am  Jahid Hasan Joni & I ❤️ code!
-
-<p>
-<a href="https://jh-joni.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-7CB342?style=for-the-badge&labelColor=7CB342&logo=Portfolio&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
-<a href="https://www.linkedin.com/in/jahid-joni/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-<a href="https://www.facebook.com/jhj.joni/" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-A7C0FF?style=for-the-badge&logo=Facebook&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
-
-</p>
-
-<h3 align="left">Connect with me:</h3>
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am  Jahid Hasan Joni & I ❤️ code! <br/>
 <p align="left">
 <a href="https://twitter.com/_jahidjoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jahidjoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jahid-joni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-joni" height="30" width="40" /></a>
